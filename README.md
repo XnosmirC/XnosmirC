@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XnosmirC
 - 👀 I’m interested in coding, gaming, and modding
-- 🌱 I’m currently learning linux command line while building a vpn server
+- 🌱 I’m currently translating python to Javascript.
 - 💞️ I’m looking to collaborate on anything that I can learn
 - 📫 How to reach me: https://discord.gg/ZBhATdsuvr
 - 😄 Pronouns: He/Him
